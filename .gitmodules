@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/Lee0JJ/CTCclient.git
+[submodule "web3"]
+	path = web3
+	url = https://github.com/Lee0JJ/web3.git
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/Lee0JJ/CTCmobile.git
