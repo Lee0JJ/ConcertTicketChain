@@ -1,0 +1,19 @@
+## Client Key : ec69a9b3aac6a5873fec590f968f6396
+## Secret Key : p_vK7flAS2IazzXcH2VIofvA18t3ipdH5is0Y-AC09ej1quwJl3caVP-QNCHKJFf6HMH66lavlxtTzjk-DG29g
+
+##GITHUB PULL Commands
+
+
+## Extra
+Git Commands:
+git init
+git config --global user.name "Your Name"
+git config --global user.email youremail@domain.com
+
+git add *
+git commit -m "Updated source"
+git remote add origin URL.git
+git remote -v
+git push --set-u origin master
+
+
