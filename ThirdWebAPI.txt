@@ -1,5 +1,5 @@
-## Client Key : ec69a9b3aac6a5873fec590f968f6396
-## Secret Key : p_vK7flAS2IazzXcH2VIofvA18t3ipdH5is0Y-AC09ej1quwJl3caVP-QNCHKJFf6HMH66lavlxtTzjk-DG29g
+## Client Key : 
+## Secret Key : 
 
 ##GITHUB PULL Commands
 
