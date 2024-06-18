@@ -7,3 +7,6 @@
 [submodule "CTCMobile3"]
 	path = CTCMobile3
 	url = https://github.com/Lee0JJ/CTCMobile3.git
+[submodule "CTCserver"]
+	path = CTCserver
+	url = https://github.com/Lee0JJ/CTCserver.git
